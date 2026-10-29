@@ -1,0 +1,1 @@
+{"name":"dexter-bot","version":"1.0.0","type":"module","scripts":{"start":"node dexter.js"},"dependencies":{"@whiskeysockets/baileys":"^6.7.18","express":"^4.21.2","multer":"^1.4.5-lts.1","pino":"^9.6.0","qrcode":"^1.5.4"}}
